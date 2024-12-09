@@ -16,5 +16,5 @@ noButton.addEventListener("mouseover", () => {
 
 yesButton.addEventListener("click", () => {
   // Show a sweet alert or message
-  alert("Yay! You said YES! ❤️ Gand mara!");
+  alert("Yay! You said YES! ❤️ Together Forever!");
 });
